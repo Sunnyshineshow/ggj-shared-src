@@ -1,3 +1,3 @@
-# Global Game Jam Source Code Sharing Repository
+# Global Game Jam Source Codes Sharing Repository
 
-Stay tune for new source code here
+Stay tune for new source codes here
